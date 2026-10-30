@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Production Builds
+dist/
+build/
+
+# Environment Variables
+.env
+.env.local
+*.env
+
+# Operating System & IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Models & Vector Cache (for future phases)
+models/
+*.gguf
+*.bin
+faiss_index/
+

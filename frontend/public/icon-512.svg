@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="80" fill="#1b5e20"/>
+  <!-- Leaf / agriculture motif -->
+  <g transform="translate(256,240)">
+    <!-- Main leaf -->
+    <path d="M-20,-160 C-20,-160 -134,-54 -134,54 C-134,118 -86,160 -20,160 C46,160 94,118 94,54 C94,-54 -20,-160 -20,-160 Z"
+          fill="#4caf50" opacity="0.9"/>
+    <!-- Leaf vein - center -->
+    <line x1="-20" y1="-140" x2="-20" y2="140" stroke="#1b5e20" stroke-width="7" stroke-linecap="round"/>
+    <!-- Leaf veins - left -->
+    <line x1="-20" y1="-60" x2="-80" y2="0" stroke="#1b5e20" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="-20" y1="0" x2="-76" y2="48" stroke="#1b5e20" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="-20" y1="54" x2="-64" y2="92" stroke="#1b5e20" stroke-width="4.5" stroke-linecap="round"/>
+    <!-- Leaf veins - right -->
+    <line x1="-20" y1="-60" x2="38" y2="0" stroke="#1b5e20" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="-20" y1="0" x2="42" y2="48" stroke="#1b5e20" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="-20" y1="54" x2="32" y2="92" stroke="#1b5e20" stroke-width="4.5" stroke-linecap="round"/>
+    <!-- Small second leaf -->
+    <path d="M54,-108 C54,-108 108,-40 104,22 C100,66 66,82 38,66 C10,50 16,-28 54,-108 Z"
+          fill="#81c784" opacity="0.8"/>
+  </g>
+  <!-- "Rural Sahayak" text -->
+  <text x="256" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#a5d6a7">Rural Sahayak</text>
+</svg>
